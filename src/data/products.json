@@ -1,0 +1,5 @@
+[
+    { "name": "Laptop", "description": "A powerful laptop", "price": 999.99, "stock": 10, "imgUrl": "default-laptop.jpg", "category": "Electronics" },
+    { "name": "T-Shirt", "description": "A comfortable t-shirt", "price": 19.99, "stock": 50, "imgUrl": "default-tshirt.jpg", "category": "Clothing" }
+  ]
+  
